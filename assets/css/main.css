@@ -112,11 +112,11 @@ a {
   -ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
   transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
   border-bottom: dotted 1px;
-  color: #5E9732;
+  color: #477326;
   text-decoration: none; }
   a:hover {
-    border-bottom-color: #5E9732;
-    color: #5E9732 !important; }
+    border-bottom-color: #477326;
+    color: #477326 !important; }
     a:hover strong {
       color: inherit; }
 
@@ -1928,7 +1928,7 @@ button,
   -webkit-transition: margin-left 0.5s ease, box-shadow 0.5s ease;
   -ms-transition: margin-left 0.5s ease, box-shadow 0.5s ease;
   transition: margin-left 0.5s ease, box-shadow 0.5s ease;
-  background-color: #5E9732;
+  background-color: #477326;
   font-size: 0.9em;
   position: relative;
   width: 26em; }
